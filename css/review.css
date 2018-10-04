@@ -17,8 +17,8 @@ body {
 
 .poem {
 	font-family: 'Lora', serif;
-	font-size: 1.2em;
-	line-height: 1.7em;
+	font-size: 1.5em;
+	line-height: 1.9em;
 	width: 100%;
 	color: #767777;
 	/*border: solid blue 1px;*/
@@ -28,6 +28,6 @@ body {
 	font-family: 'Lora', serif;
 	color: #767777;
 	font-style: italic;
-	font-size: 1.2em;
-	margin-top: 40px;
+	font-size: 1.5em;
+	margin-top: 50px;
 }
